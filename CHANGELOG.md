@@ -7,6 +7,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.12](https://github.com/gacallea/freesound-credits/compare/0.2.11..0.2.12)
+
+### ⛰️  Features
+
+- Adding pre-commit hook for convetional - ([924c906](https://github.com/gacallea/freesound-credits/commit/924c906c4b662503d8e25199c44780608c323557)) by
+
+### 🐛 Bug Fixes
+
+- *(changelog)* New template Closes [#22](https://github.com/gacallea/freesound-credits/pull/22) - ([2e421a9](https://github.com/gacallea/freesound-credits/commit/2e421a9db04693c5a388d05c411cac0565da7047)) by
+- *(pre-commit)* Don't fix. it is unsigned - ([8b544cf](https://github.com/gacallea/freesound-credits/commit/8b544cf883c7f9b3e3bde1e61be6a086682545db)) by
+
+### ⚙️ Miscellaneous Tasks
+
+- Update cargo-dist - ([b1cfa5b](https://github.com/gacallea/freesound-credits/commit/b1cfa5b6792293e10c4e117c3449cf4847cebb43)) by
+
 ## [0.2.11](https://github.com/gacallea/freesound-credits/compare/v0.2.10..v0.2.11)
 
 ### 🐛 Bug Fixes
